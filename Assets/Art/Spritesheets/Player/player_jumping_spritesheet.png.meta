@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 0fd55537e6bc96442892786a1b4b90e3
+guid: 1f181f38edfb9d942b3a97de76596c85
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -128,7 +128,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: player_idle_spritesheet_0
+      name: player_jumping_spritesheet_0
       rect:
         serializedVersion: 2
         x: 0
@@ -142,14 +142,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd5e559ee4c226e44a3d0c3e513d3fc1
-      internalID: -72438922
+      spriteID: e2e54d1c816824341a9ae7870b66b397
+      internalID: 494090843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_idle_spritesheet_1
+      name: player_jumping_spritesheet_1
       rect:
         serializedVersion: 2
         x: 256
@@ -163,14 +163,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: afce133f30ec6064a85cdaaf8ec83b3d
-      internalID: 601869795
+      spriteID: b32fcb5fcd7bfc447b1a165b823ad4a2
+      internalID: 1954442136
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_idle_spritesheet_2
+      name: player_jumping_spritesheet_2
       rect:
         serializedVersion: 2
         x: 512
@@ -184,14 +184,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c710c459fe9dba04e86cd7c49b18d6e7
-      internalID: 1474526860
+      spriteID: 6cf1e4aa8da68014fb3a02c972f47fea
+      internalID: -1990777526
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_idle_spritesheet_3
+      name: player_jumping_spritesheet_3
       rect:
         serializedVersion: 2
         x: 768
@@ -205,29 +205,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab221223666dc9e46b827d5aa9ece4a4
-      internalID: -2138651248
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: player_idle_spritesheet_4
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 256
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b587f71bcba0ee74db6dc6ecb4294b24
-      internalID: 1853923449
+      spriteID: a1c2240e1210a464890489f93f0f22eb
+      internalID: 1583433968
       vertices: []
       indices: 
       edges: []
@@ -243,11 +222,10 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      player_idle_spritesheet_1: 601869795
-      player_idle_spritesheet_3: -2138651248
-      player_idle_spritesheet_0: -72438922
-      player_idle_spritesheet_2: 1474526860
-      player_idle_spritesheet_4: 1853923449
+      player_jumping_spritesheet_3: 1583433968
+      player_jumping_spritesheet_2: -1990777526
+      player_jumping_spritesheet_1: 1954442136
+      player_jumping_spritesheet_0: 494090843
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
